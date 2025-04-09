@@ -1,0 +1,8 @@
+{
+  "name": "BodyTracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "c8076f58"
+}
